@@ -1,0 +1,2 @@
+rootProject.name='AndroidSQLiteExample'
+include ':app'
